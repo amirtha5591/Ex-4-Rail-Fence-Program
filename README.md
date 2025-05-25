@@ -72,6 +72,7 @@ int main() {
 
 # OUTPUT
 ![424282556-6173f4c0-6bde-4605-bddf-5616389b476c](https://github.com/user-attachments/assets/aaa315f6-2b09-4afb-9b62-308fd327bab1)
+
 Enter a Secret message:butterfly Enter number of rails 3 beyutrltf
 # RESULT
 The program is executed successfully
